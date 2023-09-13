@@ -1,0 +1,69 @@
+body{
+   background-color: darkcyan;
+   background-repeat: no-repeat;
+   background-size: cover;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: white;
+   height: 100vh;
+   margin: 0;
+}
+.main{
+   border-radius: 20%;
+   background: #000000d0;
+   padding: 2em;
+   border-radius: 30px;
+   width: 100%;
+   height: 75%;
+   max-width: 470px;
+   max-height: 440px;
+   
+   
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width:100%;
+    padding: 0.4 1em;
+    border-radius: 15px;
+    font-size: 105%;
+    width: calc(100%-100px);
+    font-family: inherit;
+    margin: 0;
+}
+.forgot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    font-family: inherit;
+    color: blanchedalmond;
+}
+
+
+.karton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+
+}
+button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: turquoise;
+    color: black;
+    border-radius: 15px;
+    font-size: 170%;
+   
+}
+.sign{
+    font-family: inherit;
+    color: darkcyan;
+}
